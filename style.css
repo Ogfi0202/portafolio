@@ -8,3 +8,14 @@
 /*
 
 */
+#proyecto-1{
+background-image: url('image.png');
+background-repeat:no-repeat ;
+background-position: center;
+background-size:contain ;
+
+}
+
+ .text-shadow-1 {
+    text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
+}
